@@ -1,6 +1,6 @@
-# Casper
+# Teksources
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
+The default [Ghost](http://github.com/tryghost/ghost/) theme for [Teksources.com](http://teksources.com).
 
 ## Copyright & License
 
