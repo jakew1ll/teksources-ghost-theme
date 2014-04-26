@@ -447,7 +447,8 @@ margin on the iframe, cause it breaks stuff. */
    ========================================================================== */
 
 .site-main-header {
-    min-height: 9rem;
+    height: 4.75em;
+    min-height: 85px;
     padding-top: 0.25rem;
     padding-bottom: 0.25rem;
     background-color: #272628;
