@@ -449,7 +449,7 @@ margin on the iframe, cause it breaks stuff. */
 .site-main-header {
     height: 4.75em;
     min-height: 85px;
-    padding-top: 0.25rem;
+    padding-top: 1rem;
     padding-bottom: 0.25rem;
     background-color: #272628;
     display: table;
@@ -458,7 +458,7 @@ margin on the iframe, cause it breaks stuff. */
 
 .site-logo-header {
     text-decoration: none;
-    margin: 5px 0 5px 0;
+    margin: 1px 0 5px 0;
     font-size: 5rem;
     letter-spacing: -1px;
     font-weight: bold;
@@ -468,9 +468,9 @@ margin on the iframe, cause it breaks stuff. */
 
 .site-logo-header img {
     position: absolute;
-    top: 1.5rem;
+    top: 1.3rem;
     left: 1.5rem;
-    padding-top: 0.5rem;
+    /*padding-top: 0.5rem;*/
 }
 
 /* ==========================================================================
